@@ -1,4 +1,4 @@
-# redfinspidertest
+# redfinspider
 
 Scraper that uses the Scrapy framework to acquire data for real estate analysis pipeline. It collects price, estimated monthly payments, features, descriptions, neighborhood, and location data for every listing on redfin.
 
