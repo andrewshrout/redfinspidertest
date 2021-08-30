@@ -5,7 +5,9 @@ Scraper that uses the Scrapy framework to acquire data for real estate analysis 
 ## How to Use
 
 Notebooks/listing.ipynb contains the selectors to break down each listing.
-Notebooks/listings.ipynb contains selectors for selecting all links within a city
+
+Notebooks/listings.ipynb contains selectors for selecting all links within a city.
+
 Notebooks/sitemap.ipynb contains a list of all citys and countys on redfin.
 
 ## Data Dictionary
